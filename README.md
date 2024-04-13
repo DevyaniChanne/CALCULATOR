@@ -50,7 +50,7 @@ Taxable Income = Gross Annual Income + Extra Income - Total Deductions</BR>
 As per the provided formula:
 Since the age is < 40 and the taxable income is above 8 Lakhs, the amount above 8 Lakhs is taxed at 30%.
 Calculate Tax:
-Taxable amount above 8 Lakhs = ₹923,100 - ₹800,000 = ₹123,100</BR>
+Taxable amount above 8 Lakhs = ₹923,100 - ₹800,000 =</BR> ₹123,100</BR>
 Tax = 30% of ₹123,100 = ₹36,930</BR>
 
 Overall Income After Tax Deductions:
