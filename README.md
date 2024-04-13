@@ -31,7 +31,9 @@ Check out the Tax Calculator [here](https://superlative-frangollo-9ec2dd.netlify
 
 
 ******Let's start calculating your taxes!*******</br>
-SCREENSHOTS : 
+
+
+## Screenshots : 
 
 ![Screenshot (95)](https://github.com/DevyaniChanne/CALCULATOR/assets/89982552/35f2b3d6-a61a-45c3-9a95-fd4b8e3a84d0)</br>
 ![Screenshot (96)](https://github.com/DevyaniChanne/CALCULATOR/assets/89982552/eb3bc1d5-e692-4123-941e-3644d0c03c07)
