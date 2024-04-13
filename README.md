@@ -33,10 +33,10 @@ Check out the Tax Calculator [here](https://superlative-frangollo-9ec2dd.netlify
 ******Let's start calculating your taxes!******</br>
 
 ## EXAMPLE 
-Gross Annual Income: ₹900,000
-Extra Income: ₹60,000
-Age: 34
-Total Deductions: ₹36,900
+Gross Annual Income: ₹900,000</BR>
+Extra Income: ₹60,000</BR>
+Age: 34</BR>
+Total Deductions: ₹36,900</BR>
 
 Error Handling:
 All inputs seem to be filled with valid numeric values, so no errors detected.
