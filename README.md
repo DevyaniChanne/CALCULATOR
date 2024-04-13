@@ -30,7 +30,7 @@ Check out the Tax Calculator [here](https://superlative-frangollo-9ec2dd.netlify
 4. **Age Group Selection:** Users must select their age group.
 
 
-******Let's start calculating your taxes!*******</br>
+******Let's start calculating your taxes!******</br>
 
 
 ## Screenshots : 
