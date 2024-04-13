@@ -32,6 +32,32 @@ Check out the Tax Calculator [here](https://superlative-frangollo-9ec2dd.netlify
 
 ******Let's start calculating your taxes!******</br>
 
+## EXAMPLE 
+Gross Annual Income: ₹900,000
+Extra Income: ₹60,000
+Age: 34
+Total Deductions: ₹36,900
+
+Error Handling:
+All inputs seem to be filled with valid numeric values, so no errors detected.
+Tax Calculation:
+
+Calculate Taxable Income:
+Taxable Income = Gross Annual Income + Extra Income - Total Deductions
+= ₹900,000 + ₹60,000 - ₹36,900
+= ₹923,100
+
+As per the provided formula:
+Since the age is < 40 and the taxable income is above 8 Lakhs, the amount above 8 Lakhs is taxed at 30%.
+Calculate Tax:
+Taxable amount above 8 Lakhs = ₹923,100 - ₹800,000 = ₹123,100
+Tax = 30% of ₹123,100 = ₹36,930
+
+Overall Income After Tax Deductions:
+Overall Income = Taxable Income - Tax
+= ₹923,100 - ₹36,930
+= ₹886,170
+
 
 ## Screenshots : 
 
